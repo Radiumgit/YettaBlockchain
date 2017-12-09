@@ -10,6 +10,6 @@ The actual candidates for the Yetta Blockchain are mainly 2:
 
 Graphene, this is the framework Bitshares is build upon, it use DPOS, it implement multi asset and permit to implement sort of smart contract, our aim is to develop on top of it the Yetta Blockchain solution that is derived from DECODE solution.
 
-The other Blockchain we are using is ChainSpace, that is the DECODE blockchain.
+The other Blockchain we are using is ChainSpace, that is the EU funded DECODE blockchain.
 
 
